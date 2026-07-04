@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "usuario_padrao",
+      "password": "senha_segura",
+      "createdAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "username": "usuario_bloqueado",
+      "password": "senha_segura",
+      "createdAt": "2026-07-03T00:01:00.000Z"
+    },
+    {
+      "id": 3,
+      "username": "usuario_com_erro",
+      "password": "senha_segura",
+      "createdAt": "2026-07-03T00:02:00.000Z"
+    },
+    {
+      "id": 4,
+      "username": "usuario_com_erro_checkout",
+      "password": "senha_segura",
+      "createdAt": "2026-07-03T00:03:00.000Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Notebook Dell Inspiron",
+      "description": "Notebook Dell Inspiron 15 com Intel Core i7 e 16GB RAM",
+      "price": 4999.99,
+      "promoPrice": 4499.99,
+      "imageUrl": "https://example.com/images/notebook.jpg",
+      "createdAt": "2026-07-03T00:00:00.000Z",
+      "updatedAt": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone Galaxy S24",
+      "description": "Smartphone premium com 256GB, 5G, tela AMOLED e conjunto de câmeras avançado.",
+      "price": 5999.9,
+      "promoPrice": 5499.9,
+      "imageUrl": "https://example.com/images/smartphone-galaxy-s24.jpg",
+      "createdAt": "2026-07-03T00:05:00.000Z",
+      "updatedAt": "2026-07-03T00:05:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Fone Bluetooth Sony WH-1000XM5",
+      "description": "Headphone sem fio com cancelamento ativo de ruído, bateria de longa duração e áudio de alta fidelidade.",
+      "price": 1899.9,
+      "promoPrice": 1699.9,
+      "imageUrl": "https://example.com/images/headphone-sony-wh1000xm5.jpg",
+      "createdAt": "2026-07-03T00:06:00.000Z",
+      "updatedAt": "2026-07-03T00:06:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch Apple Watch Series 9",
+      "description": "Relógio inteligente com monitoramento de saúde, GPS, notificações e integração completa com o iPhone.",
+      "price": 3299.9,
+      "promoPrice": 2999.9,
+      "imageUrl": "https://example.com/images/apple-watch-series-9.jpg",
+      "createdAt": "2026-07-03T00:07:00.000Z",
+      "updatedAt": "2026-07-03T00:07:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Console PlayStation 5",
+      "description": "Console de última geração com SSD ultrarrápido, suporte a jogos em 4K e controle DualSense.",
+      "price": 4499.9,
+      "promoPrice": 4299.9,
+      "imageUrl": "https://example.com/images/playstation-5.jpg",
+      "createdAt": "2026-07-03T00:08:00.000Z",
+      "updatedAt": "2026-07-03T00:08:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Caixa de Som JBL Flip 6",
+      "description": "Caixa de som portátil Bluetooth resistente à água, com som potente e bateria para o dia todo.",
+      "price": 799.9,
+      "promoPrice": 699.9,
+      "imageUrl": "https://example.com/images/jbl-flip-6.jpg",
+      "createdAt": "2026-07-03T00:09:00.000Z",
+      "updatedAt": "2026-07-03T00:09:00.000Z"
+    }
+  ]
+}

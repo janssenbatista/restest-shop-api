@@ -6,9 +6,6 @@ node_modules/
 .env.local
 .env.*.local
 
-# Dados locais da API
-src/data/store.json
-
 # Build / Output
 dist/
 build/
