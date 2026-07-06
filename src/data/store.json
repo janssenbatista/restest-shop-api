@@ -32,7 +32,7 @@
       "description": "Notebook Dell Inspiron 15 com Intel Core i7 e 16GB RAM",
       "price": 4999.99,
       "promoPrice": 4499.99,
-      "imageUrl": "https://example.com/images/notebook.jpg",
+      "imageUrl": "https://m.magazineluiza.com.br/a-static/420x420/notebook-dell-inspiron-15-intel-core-i7-16gb-ram-1tb-ssd-156-full-hd-windows-11-i15-i1300-a80p/magazineluiza/240267700/ef70bf97f2ecc05de5b51e967cee185f.jpg",
       "createdAt": "2026-07-03T00:00:00.000Z",
       "updatedAt": "2026-07-03T00:00:00.000Z"
     },
@@ -42,7 +42,7 @@
       "description": "Smartphone premium com 256GB, 5G, tela AMOLED e conjunto de câmeras avançado.",
       "price": 5999.9,
       "promoPrice": 5499.9,
-      "imageUrl": "https://example.com/images/smartphone-galaxy-s24.jpg",
+      "imageUrl": "https://fujiokadistribuidor.vteximg.com.br/arquivos/ids/357077",
       "createdAt": "2026-07-03T00:05:00.000Z",
       "updatedAt": "2026-07-03T00:05:00.000Z"
     },
@@ -52,7 +52,7 @@
       "description": "Headphone sem fio com cancelamento ativo de ruído, bateria de longa duração e áudio de alta fidelidade.",
       "price": 1899.9,
       "promoPrice": 1699.9,
-      "imageUrl": "https://example.com/images/headphone-sony-wh1000xm5.jpg",
+      "imageUrl": "https://http2.mlstatic.com/D_Q_NP_2X_843502-MLB110950208598_052026-P.webp",
       "createdAt": "2026-07-03T00:06:00.000Z",
       "updatedAt": "2026-07-03T00:06:00.000Z"
     },
@@ -62,7 +62,7 @@
       "description": "Relógio inteligente com monitoramento de saúde, GPS, notificações e integração completa com o iPhone.",
       "price": 3299.9,
       "promoPrice": 2999.9,
-      "imageUrl": "https://example.com/images/apple-watch-series-9.jpg",
+      "imageUrl": "https://a-static.mlcdn.com.br/420x420/apple-watch-ultra-3-gps-cellular-caixa-preta-de-titanio-49mm-pulseira-loop-alpina-preta-g/magazineluiza/240593400/8ba16c23b4ef011fe08cfc1fbe75e5bf.jpg",
       "createdAt": "2026-07-03T00:07:00.000Z",
       "updatedAt": "2026-07-03T00:07:00.000Z"
     },
@@ -72,7 +72,7 @@
       "description": "Console de última geração com SSD ultrarrápido, suporte a jogos em 4K e controle DualSense.",
       "price": 4499.9,
       "promoPrice": 4299.9,
-      "imageUrl": "https://example.com/images/playstation-5.jpg",
+      "imageUrl": "https://www.kabum.com.br/produto/989702/console-sony-playstation-5-ssd-825gb-controle-sem-fio-dualsense-2-jogos-digitais-edicao-digital",
       "createdAt": "2026-07-03T00:08:00.000Z",
       "updatedAt": "2026-07-03T00:08:00.000Z"
     },
@@ -82,7 +82,7 @@
       "description": "Caixa de som portátil Bluetooth resistente à água, com som potente e bateria para o dia todo.",
       "price": 799.9,
       "promoPrice": 699.9,
-      "imageUrl": "https://example.com/images/jbl-flip-6.jpg",
+      "imageUrl": "https://imgs.casasbahia.com.br/55048204/1g.jpg?imwidth=1000",
       "createdAt": "2026-07-03T00:09:00.000Z",
       "updatedAt": "2026-07-03T00:09:00.000Z"
     }
