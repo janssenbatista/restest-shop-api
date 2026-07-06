@@ -13,6 +13,8 @@ const router = Router();
  *       - Products
  *     summary: Listar produtos
  *     description: Retorna uma lista paginada de todos os produtos eletrônicos cadastrados.
+ *     security:
+ *       - bearerAuth: []
  *     parameters:
  *       - in: query
  *         name: page
